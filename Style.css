@@ -1,12 +1,3 @@
-/* knoppen stijl */
 .vfrc-button {
-  background-color: green; /* groene achtergrondkleur */
-  color: white; /* witte tekstkleur */
-  border: 2px solid green; /* groene rand */
-  border-radius: 10px; /* afgeronde hoeken */
-  padding: 10px 20px; /* binnenruimte */
-  font-size: 0.9em; /* iets grotere tekst */
-  margin-bottom: 10px; /* ruimte tussen knoppen */
-  cursor: pointer; /* pointer cursor bij hover */
-  text-align: center; /* tekst centreren */
+  background-color: green !important;
 }
