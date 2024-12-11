@@ -23,9 +23,9 @@
 
 /* knoppen stijl */
 .vfrc-button {
-  background-color: white; /* witte achtergrondkleur */
-  color: #6463fa; /* paarse tekstkleur */
-  border: 2px solid #6463fa; /* paarse rand */
+  background-color: green; /* groene achtergrondkleur */
+  color: white; /* witte tekstkleur */
+  border: 2px solid green; /* groene rand */
   border-radius: 10px; /* afgeronde hoeken */
   padding: 10px 20px; /* binnenruimte */
   font-size: 0.9em; /* iets grotere tekst */
@@ -35,7 +35,7 @@
 }
 
 .vfrc-button:hover {
-  background-color: #6463fa; /* paarse achtergrondkleur bij hover */
+  background-color: darkgreen; /* donkere groene achtergrondkleur bij hover */
   color: white; /* witte tekstkleur bij hover */
 }
 
